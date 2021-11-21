@@ -9,7 +9,7 @@ Demographics of the employee (city, age, gender etc.)
 Tenure information (joining date, Last Date)
 Historical data regarding the performance of the employee (Quarterly rating, Monthly business acquired, designation, salary)
 
-**Private Leaderboard Rank - 305**
+**Public Leaderboard Rank - 305**
 
 # Approach
 
