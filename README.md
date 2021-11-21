@@ -15,7 +15,14 @@ Dataset:
 
 ![alt text](https://github.com/itsravneet/Jobathon-Nov-AnalyticsVidhya/blob/main/TrainImage.png?raw=true)
 
-#Target Variable
+# Target Variable
 In this problem, we have to predict if the employee will leave the company or not in coming 180 days by given these features. The target variable is not given as it is in dataset, so I have made a target variable by grouping the dataset by group by Emp_ID and checking if the person has left in future 180 days. 
 
-#Featurization
+# Feature Engineering
+Made features like how much days of experience the person has in the company, previous month business value, previous month salary. LabelEncoded the Gender, City and Education Level. So, now the final dataset will have 12 features and target variable.
+
+# Model Building
+Neural Network is used with loss of binary_crossentropy and metric as f1_score and fitted on the data till the validation loss becomes low as 3.05. Also tried Random Forest Classifier with GridSearchCV and fitted on the data. I got highest f1 score of 0.70 in neural network and selected this model.
+
+I have got public score of 0.535
+Skillset score: 22/30 
