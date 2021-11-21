@@ -11,5 +11,5 @@ Historical data regarding the performance of the employee (Quarterly rating, Mon
 
 # Approach
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/TrainImage.png?raw=true)
 
