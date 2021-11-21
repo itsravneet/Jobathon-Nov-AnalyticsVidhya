@@ -27,4 +27,5 @@ Made features like how much days of experience the person has in the company, pr
 Neural Network is used with loss of binary_crossentropy and metric as f1_score and fitted on the data till the validation loss becomes low as 3.05. Also tried Random Forest Classifier with GridSearchCV and fitted on the data. I got highest f1 score of 0.70 in neural network and selected this model.
 
 I have got public score of 0.535
+
 Skillset score: 22/30 
