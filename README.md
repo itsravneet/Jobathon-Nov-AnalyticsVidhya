@@ -11,5 +11,11 @@ Historical data regarding the performance of the employee (Quarterly rating, Mon
 
 # Approach
 
+Dataset:
+
 ![alt text](https://github.com/itsravneet/Jobathon-Nov-AnalyticsVidhya/blob/main/TrainImage.png?raw=true)
 
+#Target Variable
+In this problem, we have to predict if the employee will leave the company or not in coming 180 days by given these features. The target variable is not given as it is in dataset, so I have made a target variable by grouping the dataset by group by Emp_ID and checking if the person has left in future 180 days. 
+
+#Featurization
