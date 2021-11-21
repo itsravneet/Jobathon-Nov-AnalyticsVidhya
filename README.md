@@ -1,4 +1,4 @@
-# Jobathon-Nov-AnalyticsVidhya
+# JOB-A-THON - November 2021
 
 Problem Statement
 You are working as a data scientist with HR Department of a large insurance company focused on sales team attrition. Insurance sales teams help insurance companies generate new business by contacting potential customers and selling one or more types of insurance. The department generally sees high attrition and thus staffing becomes a crucial aspect.
